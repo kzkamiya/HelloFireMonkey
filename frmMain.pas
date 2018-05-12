@@ -12,6 +12,8 @@ type
     Rectangle1: TRectangle;
     FloatAnimation1: TFloatAnimation;
     ColorAnimation1: TColorAnimation;
+    BitmapAnimation1: TBitmapAnimation;
+    Image1: TImage;
   private
     { private êÈåæ }
   public
